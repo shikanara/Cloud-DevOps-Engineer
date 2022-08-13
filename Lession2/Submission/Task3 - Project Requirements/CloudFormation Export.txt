@@ -1,0 +1,5 @@
+Key							Value																		Description 									Export name
+VPC							vpc-035458997f181e742														A reference to the created VPC					UdagramProject-VPCID
+PublicSubnets				subnet-028585f5840b1bf4e,subnet-0714567dd114765b9							A list of the public subnets					UdagramProject-PUB-NETS
+PrivateSubnets				subnet-0bf0060f46425114e,subnet-0651a084fdd66326b							A list of the private subnets					UdagramProject-PRIV-NETS
+WebAppLoadBalancerDNSName	http://demos-WebAp-1RCGHK2X6TOYZ-1578090380.us-east-1.elb.amazonaws.com		DNS name or Public URL of the Load Balancer		UdagramProject-LB-DNSName
